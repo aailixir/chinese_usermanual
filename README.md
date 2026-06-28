@@ -47,7 +47,7 @@ http://localhost:8080
 # 第三章: AI資料集介紹
 影像AI資料集是照片圖檔的集合，標注資料集(txt文字檔)則是教導AI的一個過程，如下圖所示為事先標記好的資料集。 
 
-註：照片圖檔僅支援 jpg、jpeg、png、bmp格式
+<span style="color:red">註: </span> 照片圖檔僅支援 jpg、jpeg、png、bmp格式
 
 ## AI資料集設定畫面
 
@@ -145,10 +145,11 @@ http://localhost:8080
 標籤清單是以YOLO names或YAML檔案為基礎的物件名稱與ID編號對應檔案，在標記一個物種的代號。
 
 + YOLO names: 可以在AI資料集設定-> 資料集 -> data.names看到內容。
++ YAML: 可以在AI資料集設定-> 資料集 -> data.yaml看到內容。
 
 <img width="1816" height="482" alt="image" src="https://github.com/user-attachments/assets/287da6fa-0b16-4868-aad3-8ed41b311aed" />
 
-+ YAML: 可以在AI資料集設定-> 資料集 -> data.yaml看到內容。
+<span style="color:red">註: </span> 標籤清單僅支援英文。
 
 
 
