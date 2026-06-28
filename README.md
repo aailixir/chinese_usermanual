@@ -45,7 +45,7 @@ http://localhost:8080
 註：照片圖檔僅支援 jpg、jpeg、png、bmp格式
 
 ## 3.1	AI資料集設定
-請先點選「AI資料集設定」進行群組及資料集設定，點選「群組新增」進行群組管理。
+請先點選「AI資料集設定」進行群組及資料集設定，點選「新增群組」進行群組管理。
 點選   該新增群組可在該群組下新增資料集。新增完資料集後可以
 
 <img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/f056a99b-c7d4-47fe-889f-a70e509bcf72" />
