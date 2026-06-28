@@ -101,6 +101,7 @@ http://localhost:8080
 + AI資料集：資料集名稱
 + 標記名稱：這裡是包含了YOLO框架物件名稱，是以文字檔格式來代表物件名稱，每一行一個物種名稱，並須以英文來表示。
 
+<img width="1904" height="957" alt="image" src="https://github.com/user-attachments/assets/9011d6bb-91e3-4827-9cc5-3967f5e60bde" />
 
 
 資料集設定
