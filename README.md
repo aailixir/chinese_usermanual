@@ -113,8 +113,10 @@ http://localhost:8080
 本軟體同時支援，四邊形Rect標記及多邊形Poly標記，可以點選多邊形標記，可以切換四邊形及多邊形，同一資料集不能混用。
 + 四邊形標記
 <img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/f86e97b9-7e06-430c-8cb0-26aee4256367" />
+
 + 多邊形標記
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f54bcb7-1e6f-4d48-ba17-377d7204dc77" />
+<img width="1920" height="964" alt="image" src="https://github.com/user-attachments/assets/4a405bbe-71bd-463e-a478-54a724b04ba9" />
+
 
 
 
