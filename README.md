@@ -59,7 +59,9 @@ http://localhost:8080
 
 
 <img width="521" height="293" alt="image" src="https://github.com/user-attachments/assets/c01ef8e3-2823-426e-a9cb-e5ffe295bb9d" />
+## 資料集新增
 
+<img width="1913" height="850" alt="image" src="https://github.com/user-attachments/assets/d2aa32b8-d0a0-4c01-8a08-5c937c63aa05" />
 
 + 資料集主機路徑：網路主機或本地主機資料集所在位置
 + 數量:已標記：所有資料集及已標記資料集占比
