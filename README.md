@@ -149,7 +149,7 @@ http://localhost:8080
 
 <img width="1816" height="482" alt="image" src="https://github.com/user-attachments/assets/287da6fa-0b16-4868-aad3-8ed41b311aed" />
 
-<span style="color:red">註: </span> 標籤清單僅支援英文。
+## ⚠️ Warning 標籤清單僅支援英文。
 
 
 
