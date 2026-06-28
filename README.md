@@ -53,6 +53,8 @@ http://localhost:8080
 點選該新增群組可在該群組下點選「資料集新增」按鈕。新增完資料集後可以開始建立資料集。群組為相同的資料集, 共享統樣的物件種類(names檔案)。
 
 ## 資料集群組新增
+請輸入群組名稱來建立群組。
+
 <img width="1920" height="479" alt="image" src="https://github.com/user-attachments/assets/840c638e-cf99-40a1-97f0-544963f23c1a" />
 
 ## 資料集新增
