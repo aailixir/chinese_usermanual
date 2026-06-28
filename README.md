@@ -83,10 +83,9 @@ http://localhost:8080
 
 <img width="1019" height="393" alt="image" src="https://github.com/user-attachments/assets/2d4ae185-56b0-448d-a519-faaf476235b1" />
 
-<img width="588" height="48" alt="image" src="https://github.com/user-attachments/assets/e69d009f-5759-41ee-b228-4d21940ae0bc" />
-
 ## 資料集刪除
 選擇群組或資料集可進行資料集刪除。
+<img width="588" height="48" alt="image" src="https://github.com/user-attachments/assets/e69d009f-5759-41ee-b228-4d21940ae0bc" />
 
 ## 資料集移動
 選擇群組或資料集可進行資料集移動位置。
