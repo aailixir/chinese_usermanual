@@ -45,12 +45,14 @@ http://localhost:8080
 註：照片圖檔僅支援 jpg、jpeg、png、bmp格式
 
 ## 3.1	AI資料集設定
-請先點選「AI資料集設定」進行群組及資料集設定，點選「新增群組」進行群組管理。
-點選   該新增群組可在該群組下新增資料集。新增完資料集後可以
+請先點選「AI資料集設定」進行「群組」及「資料集」設定，點選「新增群組」進行群組管理。
+點選該新增群組可在該群組下點選「資料集新增」按鈕。新增完資料集後可以開始建立資料集。
+
+<img width="1920" height="479" alt="image" src="https://github.com/user-attachments/assets/840c638e-cf99-40a1-97f0-544963f23c1a" />
 
 <img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/f056a99b-c7d4-47fe-889f-a70e509bcf72" />
 
-<img width="1920" height="479" alt="image" src="https://github.com/user-attachments/assets/840c638e-cf99-40a1-97f0-544963f23c1a" />
+
 
 + AI資料集：資料集名稱
 + 標記名稱：這裡是包含了YOLO框架物件名稱，是以文字檔格式來代表物件名稱，每一行一個物種名稱，並須以英文來表示。
