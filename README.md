@@ -83,7 +83,12 @@ http://localhost:8080
 
 <img width="1019" height="393" alt="image" src="https://github.com/user-attachments/assets/2d4ae185-56b0-448d-a519-faaf476235b1" />
 
+<img width="588" height="48" alt="image" src="https://github.com/user-attachments/assets/e69d009f-5759-41ee-b228-4d21940ae0bc" />
+## 資料集刪除
+選擇群組或資料集可進行資料集刪除。
 
+## 資料集移動
+選擇群組或資料集可進行資料集移動位置。
 + 完成度：檢驗標記文字檔(label)、照片檔案、類別names檔案、平均分配資料集、具類別數量的百分比進度條、請完成100%後進行AI模型訓練
 + 下載：將目前標記好的資料集以zip形式打包下載
 + 上傳：可以上傳照片、預標記好的資料集zip檔案上傳到主機
