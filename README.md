@@ -61,7 +61,9 @@ http://localhost:8080
 + 資料集名稱: 可以用來記錄辨識用
 + 群組名稱: 
 + AI圖片路徑: 為來照片與標記檔案的路徑
-
++ 群組編號: 用來定位資料集
++ HTML管理報表: 可客製的使用者報表
+  
 <img width="1913" height="850" alt="image" src="https://github.com/user-attachments/assets/d2aa32b8-d0a0-4c01-8a08-5c937c63aa05" />
 
 + 資料集主機路徑：網路主機或本地主機資料集所在位置
