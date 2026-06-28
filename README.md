@@ -1,10 +1,10 @@
 # 第一章: 使用前準備
-## 1.1 軟體安裝
+## 軟體安裝
 請下載AI靈丹軟體安裝包，使用滑鼠雙敲執行安裝Ailixir AI靈丹軟體。
 
 <img width="648" height="448" alt="image" src="https://github.com/user-attachments/assets/55c3708e-7c4b-460a-89bc-019e4777143f" />
 
-## 1.2	版權聲明
+## 版權聲明
 本網站/程式由 Apache HTTP Server 提供服務，並使用 PHP 程式語言開發。
 
 © 2025 胡斯科技有限公司。保留所有權利。
@@ -44,13 +44,13 @@ http://localhost:8080
 
 註：照片圖檔僅支援 jpg、jpeg、png、bmp格式
 
-## 3.1	AI資料集設定
+## AI資料集設定
 請先點選左邊的導覽選單「AI資料集設定」進行「群組」及「資料集」設定，點選「新增群組」進行群組管理。
 點選該新增群組可在該群組下點選「資料集新增」按鈕。新增完資料集後可以開始建立資料集。群組為相同的資料集, 共享統樣的物件種類(names檔案)。
 
 <img width="1920" height="479" alt="image" src="https://github.com/user-attachments/assets/840c638e-cf99-40a1-97f0-544963f23c1a" />
 
-
+## AI資料集設定畫面
 
 <img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/f056a99b-c7d4-47fe-889f-a70e509bcf72" />
 
