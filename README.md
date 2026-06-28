@@ -70,7 +70,7 @@ http://localhost:8080
 <img width="1913" height="850" alt="image" src="https://github.com/user-attachments/assets/d2aa32b8-d0a0-4c01-8a08-5c937c63aa05" />
 
 ## 資料集修改
-資料集修改可修改群組與資料集相關內容, 「本地路徑」就是照片與標記所儲存的路徑。
+資料集修改可修改群組與資料集相關內容，「本地路徑」就是照片與標記所儲存的路徑。
 <BR>
 <BR>
 <img width="1920" height="775" alt="image" src="https://github.com/user-attachments/assets/b17654e7-b431-4f23-a345-fdf20243221f" />
@@ -97,12 +97,9 @@ http://localhost:8080
 
 
 # 第4章: AI資料集標記
-
-+ AI資料集：資料集名稱
-+ 標記名稱：這裡是包含了YOLO框架物件名稱，是以文字檔格式來代表物件名稱，每一行一個物種名稱，並須以英文來表示。
+資料集群組及資料集新增完畢後，會顯示在左側選單，點選資料集可以顯示資料集照片內容。
 
 <img width="1904" height="957" alt="image" src="https://github.com/user-attachments/assets/9011d6bb-91e3-4827-9cc5-3967f5e60bde" />
-
 
 資料集設定
 當完成群組與資料集名稱的建立後，針對某一個資料集，您可點選左側的群組並點選該資料集進行資料集的相關功能：
