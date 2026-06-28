@@ -126,6 +126,12 @@ http://localhost:8080
 
 <img width="1920" height="964" alt="image" src="https://github.com/user-attachments/assets/4a405bbe-71bd-463e-a478-54a724b04ba9" />
 
+## 開始標記
+欲標記某個物種，請先選擇「標籤清單」內的物種，在照片上的該物種請使用滑鼠點選拖曳，來進行物種標記，標記檔案會自動儲存在主機端。
+
+<img width="1236" height="617" alt="image" src="https://github.com/user-attachments/assets/6c2bfe74-2cd5-4d44-89da-62d0b9af92d5" />
+
+
 
 
 
