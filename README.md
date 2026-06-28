@@ -60,6 +60,7 @@ http://localhost:8080
 ## 資料集新增
 點選該新增群組可在該群組下點選「資料集新增」按鈕。新增完資料集後可以開始建立資料集。群組為相同的資料集, 共享統樣的物件種類(names檔案)。
 <BR>
+<BR>
 + 資料集名稱: 可以用來記錄辨識用
 + 群組名稱: 
 + AI圖片路徑: 為來照片與標記檔案的路徑
@@ -69,6 +70,9 @@ http://localhost:8080
 <img width="1913" height="850" alt="image" src="https://github.com/user-attachments/assets/d2aa32b8-d0a0-4c01-8a08-5c937c63aa05" />
 
 ## 資料集修改
+資料集修改可修改群組與資料集相關內容, 「本地路徑」就是照片與標記所儲存的路徑。
+<BR>
+<BR>
 <img width="1920" height="775" alt="image" src="https://github.com/user-attachments/assets/b17654e7-b431-4f23-a345-fdf20243221f" />
 
 + 資料集主機路徑：網路主機或本地主機資料集所在位置
