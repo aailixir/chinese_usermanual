@@ -53,6 +53,10 @@ http://localhost:8080
 點選該新增群組可在該群組下點選「資料集新增」按鈕。新增完資料集後可以開始建立資料集。群組為相同的資料集, 共享統樣的物件種類(names檔案)。
 
 ## 資料集新增
+<img width="1920" height="479" alt="image" src="https://github.com/user-attachments/assets/840c638e-cf99-40a1-97f0-544963f23c1a" />
+
+
+
 
 <img width="1913" height="850" alt="image" src="https://github.com/user-attachments/assets/d2aa32b8-d0a0-4c01-8a08-5c937c63aa05" />
 
@@ -70,7 +74,7 @@ http://localhost:8080
 + 上傳：可以上傳照片、預標記好的資料集zip檔案上傳到主機
 
 
-<img width="1920" height="479" alt="image" src="https://github.com/user-attachments/assets/840c638e-cf99-40a1-97f0-544963f23c1a" />
+
 
 + AI資料集：資料集名稱
 + 標記名稱：這裡是包含了YOLO框架物件名稱，是以文字檔格式來代表物件名稱，每一行一個物種名稱，並須以英文來表示。
