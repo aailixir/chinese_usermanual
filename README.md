@@ -110,7 +110,11 @@ http://localhost:8080
 + 資料集數量：總照片張數
 
 ## 資料集標記
+四邊形標記
 <img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/f86e97b9-7e06-430c-8cb0-26aee4256367" />
+多邊形標記
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/5f54bcb7-1e6f-4d48-ba17-377d7204dc77" />
+
 
 
 
