@@ -58,7 +58,9 @@ http://localhost:8080
 <img width="1920" height="479" alt="image" src="https://github.com/user-attachments/assets/840c638e-cf99-40a1-97f0-544963f23c1a" />
 
 ## 資料集新增
-
++ 資料集名稱: 可以用來記錄辨識用
++ 群組名稱: 
++ AI圖片路徑: 為來照片與標記檔案的路徑
 
 <img width="1913" height="850" alt="image" src="https://github.com/user-attachments/assets/d2aa32b8-d0a0-4c01-8a08-5c937c63aa05" />
 
