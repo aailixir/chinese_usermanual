@@ -111,14 +111,19 @@ http://localhost:8080
 
 ## 資料集標記
 本軟體同時支援，四邊形Rect標記及多邊形Poly標記，可以點選多邊形標記，可以切換四邊形及多邊形，同一資料集不能混用。
-+ 四邊形標記-這是AI標記的基礎形式，也是YOLO AI標記的一般格式，點選「標記標題」區塊可以進到編修模式。
+四邊形標記-這是AI標記的基礎形式，也是YOLO AI標記的一般格式，點選「標記標題」區塊可以進到編修模式。
 
 - 整個物件拖曳-直接拖曳「標記標題」
-- 錨點拖曳-
-- 邊線拖曳-
+- 錨點拖曳-拖曳錨點以符合物件大小
+- 邊線拖曳-調整標記邊界以符合物件大小
+
 <img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/f86e97b9-7e06-430c-8cb0-26aee4256367" />
 
-+ 多邊形標記
+多邊形標記-這又稱為segmentation，物件語意分析，為YOLO AI標記的進階格式。
+
+- 整個物件拖曳-直接拖曳「標記標題」
+- 錨點拖曳-拖曳錨點以符合物件大小
+
 <img width="1920" height="964" alt="image" src="https://github.com/user-attachments/assets/4a405bbe-71bd-463e-a478-54a724b04ba9" />
 
 
