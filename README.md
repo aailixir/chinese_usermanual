@@ -49,6 +49,28 @@ http://localhost:8080
 + AI資料集：資料集名稱
 + 標記名稱：這裡是包含了YOLO框架物件名稱，是以文字檔格式來代表物件名稱，每一行一個物種名稱，並須以英文來表示。
 
+<img width="521" height="293" alt="image" src="https://github.com/user-attachments/assets/c01ef8e3-2823-426e-a9cb-e5ffe295bb9d" />
+
++ 資料集主機路徑：網路主機或本地主機資料集所在位置
++ 數量:已標記：所有資料集及已標記資料集占比
++ 類別數量：names的行數也是類別數量
++ 公平性： 此功能是將照片資料集與標註資料集，以7:2:1放置到「train」、「test」、「val」平均分配到「訓練、「測試」、「評估」目錄中，是進行訓練工作的最後一個檢驗程序
+
+<img width="1019" height="393" alt="image" src="https://github.com/user-attachments/assets/2d4ae185-56b0-448d-a519-faaf476235b1" />
+
++ 完成度：檢驗標記文字檔(label)、照片檔案、類別names檔案、平均分配資料集、具類別數量的百分比進度條、請完成100%後進行AI模型訓練
++ 下載：將目前標記好的資料集以zip形式打包下載
++ 上傳：可以上傳照片、預標記好的資料集zip檔案上傳到主機
+
+<img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/f056a99b-c7d4-47fe-889f-a70e509bcf72" />
+
+
+
+
+
+
+
+
 
 
 
