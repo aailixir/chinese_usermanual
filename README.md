@@ -101,7 +101,7 @@ http://localhost:8080
 
 <img width="1904" height="957" alt="image" src="https://github.com/user-attachments/assets/9011d6bb-91e3-4827-9cc5-3967f5e60bde" />
 
-資料集設定
+## 資料集設定
 當完成群組與資料集名稱的建立後，針對某一個資料集，您可點選左側的群組並點選該資料集進行資料集的相關功能：
 
 + 照片(names)上傳：您可以使用小作家自行編修副檔名為names或labels文字檔案，或新增照片檔案並上傳到主機
@@ -109,7 +109,8 @@ http://localhost:8080
 + 照片刪除：可以刪除照片與標記檔案
 + 資料集數量：總照片張數
 
-
+## 資料集標記
+<img width="1920" height="967" alt="image" src="https://github.com/user-attachments/assets/f86e97b9-7e06-430c-8cb0-26aee4256367" />
 
 
 
