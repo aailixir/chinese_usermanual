@@ -142,7 +142,14 @@ http://localhost:8080
 <img width="1236" height="617" alt="image" src="https://github.com/user-attachments/assets/6c2bfe74-2cd5-4d44-89da-62d0b9af92d5" />
 
 ## 標籤清單
-標籤清單是以YOLO
+標籤清單是以YOLO names或YAML檔案為基礎的物件名稱與ID編號對應檔案，在標記一個物種的代號。
+
++ YOLO names: 可以在AI資料集設定-> 資料集 -> data.names看到內容。
+
+<img width="1816" height="482" alt="image" src="https://github.com/user-attachments/assets/287da6fa-0b16-4868-aad3-8ed41b311aed" />
+
++ YAML: 可以在AI資料集設定-> 資料集 -> data.yaml看到內容。
+
 
 
 
