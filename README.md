@@ -44,9 +44,11 @@ http://localhost:8080
 
 註：照片圖檔僅支援 jpg、jpeg、png、bmp格式
 
-## 3.1	資料集Names檔案
+## 3.1	AI資料集設定
 請先點選「AI資料集設定」進行群組及資料集設定，點選「群組新增」進行群組管理。
 點選   該新增群組可在該群組下新增資料集。新增完資料集後可以
+
+<img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/f056a99b-c7d4-47fe-889f-a70e509bcf72" />
 
 + AI資料集：資料集名稱
 + 標記名稱：這裡是包含了YOLO框架物件名稱，是以文字檔格式來代表物件名稱，每一行一個物種名稱，並須以英文來表示。
@@ -69,7 +71,7 @@ http://localhost:8080
 + 上傳：可以上傳照片、預標記好的資料集zip檔案上傳到主機
 
 
-<img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/f056a99b-c7d4-47fe-889f-a70e509bcf72" />
+
 
 
 ## 3.2	資料集設定
