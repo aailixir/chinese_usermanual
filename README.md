@@ -66,6 +66,9 @@ http://localhost:8080
   
 <img width="1913" height="850" alt="image" src="https://github.com/user-attachments/assets/d2aa32b8-d0a0-4c01-8a08-5c937c63aa05" />
 
+## 資料集修改
+<img width="1920" height="775" alt="image" src="https://github.com/user-attachments/assets/b17654e7-b431-4f23-a345-fdf20243221f" />
+
 + 資料集主機路徑：網路主機或本地主機資料集所在位置
 + 數量:已標記：所有資料集及已標記資料集占比
 + 類別數量：names的行數也是類別數量
