@@ -52,7 +52,6 @@ http://localhost:8080
 請先點選左邊的導覽選單「AI資料集設定」進行「群組」及「資料集」設定，點選「新增群組」進行群組管理。
 點選該新增群組可在該群組下點選「資料集新增」按鈕。新增完資料集後可以開始建立資料集。群組為相同的資料集, 共享統樣的物件種類(names檔案)。
 
-<img width="521" height="293" alt="image" src="https://github.com/user-attachments/assets/c01ef8e3-2823-426e-a9cb-e5ffe295bb9d" />
 ## 資料集新增
 
 <img width="1913" height="850" alt="image" src="https://github.com/user-attachments/assets/d2aa32b8-d0a0-4c01-8a08-5c937c63aa05" />
