@@ -28,6 +28,9 @@ PHP 為 The PHP Group 所開發並維護的開源程式語言。
 GPU需求：RTX20系列、RTX30系列、RTX40系列、RTX50系列
 記憶體RAM：4GB以上
 
+## Agentic AI 動態載入模型
+YOLOv5, YOLOv7, YOLOv8, YOLOv11, YOLOv11Seg
+
 # 第二章: 開始使用
 安裝完畢後，請使用瀏覽器並輸入網址如下：
 http://127.0.0.1:8080
