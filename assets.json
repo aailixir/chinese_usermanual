@@ -1,12 +1,14 @@
 [
   {
-    "Name": "Ailixir_Windows",
+    "Name": "Ailixir_Windows_1.0.24",
     "Description": "Windows 版本 Ailixir Version 1.0.24, 2026/08/06",
-    "URL": "https://drive.usercontent.google.com/download?id=1qIUrWQD-towKhYINdZcSt04e714NuXxE&export=download&authuser=0"
+    "URL_Google_Drive": "https://drive.usercontent.google.com/download?id=1qIUrWQD-towKhYINdZcSt04e714NuXxE&export=download&authuser=0",
+    "URL_GCS_Bucket":""
   },
   {
-    "Name": "Ailixir_User_Manual",
-    "Description": "Ailixir build 2026/06/04",
-    "URL": "https://drive.usercontent.google.com/download?id=1P6uHQF5t3CFjzy_fHOqBfMWnVZBHi7jy&export=download&authuser=0"
+    "Name": "Ailixir_Windows_1.0.0",
+    "Description": "Windows 版本 Ailixir Version 1.0.0, 2026/06/04",
+    "URL_Google_Drive": "https://drive.usercontent.google.com/download?id=1P6uHQF5t3CFjzy_fHOqBfMWnVZBHi7jy&export=download&authuser=0",
+    "URL_GCS_Bucket":""
   }
 ]
