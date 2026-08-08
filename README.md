@@ -39,8 +39,9 @@ Installer Type: exe (local)
 4. 驗證安裝結果：安裝完成後，按下 Win + R，輸入 cmd 開啟命令提示字元，然後輸入以下指令：
    
 ```
-nvcc --version
+nvidia-smi
 ```
+![nvidia-smi](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_nvidia.jpg)
 
 ### Linux (Ubuntu) 系統安裝步驟
 1. 在 Linux 系統中，通常建議使用終端機指令並透過 .deb 或 .run 檔案來安裝。1.安裝 NVIDIA 顯示卡驅動程式：需重新開機。開啟終端機，先更新系統套件庫，然後讓系統自動尋找並安裝最適合的 NVIDIA 驅動程式：
