@@ -66,20 +66,6 @@ export LD_LIBRARY_PATH=/usr/local/cuda-12.x/lib64${LD_LIBRARY_PATH:+:${LD_LIBRAR
 4. 驗證與檢查狀態：
 輸入 nvcc --version 確認編譯器已正確安裝。接著，你可以使用 NVIDIA 系統管理介面來查看 GPU 的即時狀態與資源佔用。
 
-## 版權聲明
-本網站/程式由 Apache HTTP Server 提供服務，並使用 PHP 程式語言開發。
-
-© 2026 [胡斯科技有限公司](https://anno.ailixir.com.tw)。保留所有權利。
-
-本程式碼及相關文件僅供學習與研究用途，未經授權不得複製、散佈或用於商業用途。
-若需引用或修改，請保留原始作者資訊及本版權聲明。
-
-Apache HTTP Server 為 Apache Software Foundation 的開源專案，
-PHP 為 The PHP Group 所開發並維護的開源程式語言。
-兩者均依各自的授權條款 (Apache License 2.0 與 PHP License) 使用。
-
-本專案僅在合法授權範圍內使用上述軟體，並不代表與 Apache Software Foundation 或 The PHP Group 有任何附屬或合作關係。
-
 ## 訓練主機需求
 作業系統：Windows 10、Windows 11 <BR>
 GPU需求：RTX20系列、RTX30系列、RTX40系列、RTX50系列 <BR>
@@ -284,7 +270,15 @@ YOLO在訓練完畢後，相關的報表如辨識標記分布、辨識測試、F
 
 ![Upload](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_upload.jpg)
 
+# 版權聲明
+本網站/程式由 Apache HTTP Server 提供服務，並使用 PHP 程式語言開發。
+© 2026 胡斯科技有限公司。保留所有權利。
+本程式碼及相關文件僅供學習與研究用途，未經授權不得複製、散佈或用於商業用途。若需引用或修改，請保留原始作者資訊及本版權聲明。
+Apache HTTP Server 為 Apache Software Foundation 的開源專案。
+PHP 為 The PHP Group 所開發並維護的開源程式語言。
+兩者均依各自的授權條款 (Apache License 2.0 與 PHP License) 使用。
 
+本專案僅在合法授權範圍內使用上述軟體，並不代表與 Apache Software Foundation 或 The PHP Group 有任何附屬或合作關係。
 
 
 
