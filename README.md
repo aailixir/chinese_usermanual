@@ -9,7 +9,7 @@
 
 ![相關辨識影像展識](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo.jpg)
 
-# 購買與支援請洽
+## 📞 購買與技術支援
 請聯絡 aailixir.gmail.com 或參閱胡斯科技 [聯絡我們](https://anno.ailixir.com.tw/#contact)
 
 # 第一章: 使用前準備
