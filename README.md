@@ -239,10 +239,12 @@ http://localhost:8080
 ![安裝YOLO](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_setup.jpg)
 
 ## 訓練指令
-若您是使用Command指令的使用者，您可以點選「訓練指令」按鈕，來複製Command指令
+若您是使用Command指令的使用者，您可以點選「訓練指令」按鈕，來複製Command指令。
 
 ## 模型訓練
-欲訓練YOLO AI模型，
+欲訓練YOLO AI模型，您可以點選「訓練」按鈕，進行模型訓練。
+
+![訓練YOLO](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_training.jpg)
 
 
 
