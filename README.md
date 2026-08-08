@@ -105,7 +105,14 @@ http://localhost:8080
 ![相關辨識影像展識](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_install.jpg)
 
 ## 套件總覽
+若一切安裝順利，相關必要元件如Git、PyTorch、PyYAML會顯示在套件總覽並顯示安裝狀態。
+
 ![套件總覽](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_pytorch.jpg)
+
+## 套件診斷
+若安裝不成功，可以進行安裝。
+
+![套件診斷](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_step1)
 
 # 第三章: AI資料集介紹
 影像AI資料集是照片圖檔的集合，標注資料集(txt文字檔)則是教導AI的一個過程，如下圖所示為事先標記好的資料集。 
