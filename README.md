@@ -224,7 +224,7 @@ http://localhost:8080
 
 ## 模型訓練
 
-
+![Cuda OK](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg)
 
 
 
