@@ -253,7 +253,7 @@ http://localhost:8080
 
 ## 模型報表
 
-![模型報表](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_training1.jpg)
+![模型報表](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_release1.jpg)
 
 
 
