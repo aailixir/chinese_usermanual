@@ -157,7 +157,7 @@ http://localhost:8080
 + 上傳：可以上傳照片、預標記好的資料集zip檔案上傳到主機
 
 
-# 第4章: AI資料集標記
+# 第四章: AI資料集標記
 資料集群組及資料集新增完畢後，會顯示在左側選單，點選資料集可以顯示資料集照片內容。
 
 <img width="1904" height="957" alt="image" src="https://github.com/user-attachments/assets/9011d6bb-91e3-4827-9cc5-3967f5e60bde" />
