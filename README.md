@@ -257,10 +257,10 @@ http://localhost:8080
 ## 模型報表審視
 系統會自動生成詳細的訓練報表，包含：
 
-辨識標記分佈圖 <BR>
-辨識測試結果 <BR>
-F1 Score 曲線 <BR>
-混淆矩陣 (Confusion Matrix) <BR>
+* 辨識標記分佈圖 <BR>
+* 辨識測試結果 <BR>
+* F1 Score 曲線 <BR>
+* 混淆矩陣 (Confusion Matrix) <BR>
 
 ![模型報表](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_release1.jpg)
 
