@@ -223,11 +223,15 @@ http://localhost:8080
 ⚠️ 標籤清單僅支援英文。
 
 ## 模型訓練
-在完成[CUDA安裝後](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg)，可以參閱[「環境設定套件總覽」]。並按下「套件總覽」按鈕，來確定相關套件是否安專完成，如下圖代表套件安裝完成。
+在完成[CUDA安裝後](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg)，可以參閱「環境設定套件總覽」。並按下「套件總覽」按鈕，來確定相關套件是否安專完成，如下圖代表套件安裝完成。
 
 ![Cuda OK](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg)
 
 接下來，請安裝YOLO模型。
+
+請至「AI模型訓練」選單，選擇您想要的AI模型，並點選「引擎安裝」按鈕，來下載該模型引擎。
+
+⚠️ 請確保您的標記主機連線到Internet，才可下載模型引擎。
 
 
 
