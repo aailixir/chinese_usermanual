@@ -12,6 +12,51 @@
 
 <img width="648" height="448" alt="image" src="https://github.com/user-attachments/assets/55c3708e-7c4b-460a-89bc-019e4777143f" />
 
+## CUDA安裝
+### Windows 系統安裝步驟
+在 Windows 上安裝 CUDA 相對直觀，主要透過圖形化安裝精靈來完成。
+
+1. 更新 NVIDIA 顯示卡驅動程式 
+在安裝 CUDA 之前，請先前往 NVIDIA 官方網站下載並安裝適用於你顯示卡的最新版驅動程式。如果安裝舊版 CUDA，最新的驅動程式通常可以向下相容。
+
+2. [下載 CUDA Toolkit] (https://developer.nvidia.com/cuda-downloads)
+前往 NVIDIA CUDA Toolkit 官方下載頁面。
+依序選擇你的作業系統條件：
+
+Operating System: Windows
+Architecture: x86_64
+Version: 10 或 11
+Installer Type: exe (local)
+點擊下載安裝檔（檔案通常有幾 GB 大小）。
+
+3. 執行安裝程式：雙擊下載的 .exe 檔案進行安裝。建議選擇 「精簡 (Express)」 安裝，這會自動為你安裝所有必要的組件並設定好 Windows 環境變數。如果你已有較新版的顯示卡驅動，安裝程式會提示覆蓋，通常保留較新版本的驅動即可。
+
+4. 驗證安裝結果：安裝完成後，按下 Win + R，輸入 cmd 開啟命令提示字元，然後輸入以下指令：
+   
+```
+nvcc --version
+```
+
+### Linux (Ubuntu) 系統安裝步驟
+1. 在 Linux 系統中，通常建議使用終端機指令並透過 .deb 或 .run 檔案來安裝。1.安裝 NVIDIA 顯示卡驅動程式：需重新開機。開啟終端機，先更新系統套件庫，然後讓系統自動尋找並安裝最適合的 NVIDIA 驅動程式：
+
+```
+sudo apt update
+sudo ubuntu-drivers autoinstall
+sudo reboot
+```
+
+2.下載與安裝 CUDA Toolkit：前往 NVIDIA 官方下載頁面，選擇 Linux -> x86_64 -> Ubuntu -> 你的版本 (如 22.04 或 24.04) -> deb (local)。網頁下方會自動生成對應的終端機指令（通常包含下載 .pin 檔、下載 .deb 檔、加入金鑰並透過 apt 安裝 cuda-toolkit）。請依序複製並在終端機中執行這些指令。
+
+3.設定環境變數：非常重要。安裝完成後，系統還不知道 CUDA 的路徑。你需要手動將它加入環境變數中。使用文字編輯器打開 ~/.bashrc 檔案，在最底端加入以下兩行（請將 cuda-12.x 替換為你安裝的實際版本號）：
+
+```
+export PATH=/usr/local/cuda-12.x/bin${PATH:+:${PATH}}
+export LD_LIBRARY_PATH=/usr/local/cuda-12.x/lib64${LD_LIBRARY_PATH:+:${LD_LIBRARY_PATH}}
+```
+4. 驗證與檢查狀態：
+輸入 nvcc --version 確認編譯器已正確安裝。接著，你可以使用 NVIDIA 系統管理介面來查看 GPU 的即時狀態與資源佔用。
+
 ## 版權聲明
 本網站/程式由 Apache HTTP Server 提供服務，並使用 PHP 程式語言開發。
 
