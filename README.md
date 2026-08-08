@@ -223,7 +223,7 @@ http://localhost:8080
 ⚠️ 標籤清單僅支援英文。
 
 ## 模型訓練
-
+在完成[CUDA安裝後](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg)可以按下「套件總覽」按鈕來確定相關套件是否安專完成，
 ![Cuda OK](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg)
 
 
