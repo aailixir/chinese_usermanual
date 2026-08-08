@@ -31,10 +31,11 @@
 前往 NVIDIA CUDA Toolkit 官方下載頁面。
 依序選擇你的作業系統條件：
 
-Operating System: Windows
-Architecture: x86_64
-Version: 10 或 11
-Installer Type: exe (local)
+* Operating System: Windows
+* Architecture: x86_64
+* Version: 10 或 11
+* Installer Type: exe (local)
+
 點擊下載安裝檔（檔案通常有幾 GB 大小）。
 
 3. 執行安裝程式：雙擊下載的 .exe 檔案進行安裝。建議選擇 「精簡 (Express)」 安裝，這會自動為你安裝所有必要的組件並設定好 Windows 環境變數。如果你已有較新版的顯示卡驅動，安裝程式會提示覆蓋，通常保留較新版本的驅動即可。
@@ -67,18 +68,18 @@ export LD_LIBRARY_PATH=/usr/local/cuda-12.x/lib64${LD_LIBRARY_PATH:+:${LD_LIBRAR
 輸入 nvcc --version 確認編譯器已正確安裝。接著，你可以使用 NVIDIA 系統管理介面來查看 GPU 的即時狀態與資源佔用。
 
 ## 訓練主機需求
-作業系統：Windows 10、Windows 11 <BR>
-GPU需求：RTX20系列、RTX30系列、RTX40系列、RTX50系列 <BR>
-記憶體RAM：4GB以上 <BR>
+* 作業系統：Windows 10、Windows 11 <BR>
+* GPU需求：RTX20系列、RTX30系列、RTX40系列、RTX50系列 <BR>
+* 記憶體RAM：4GB以上 <BR>
 
 ## Agentic AI 動態載入模型
 系統支援以下模型的動態載入與訓練：
 
-YOLOv5 <BR>
-YOLOv7 <BR>
-YOLOv8 <BR>
-YOLOv11 <BR>
-YOLOv11-Seg (Segmentation) <BR>
+* YOLOv5 <BR>
+* YOLOv7 <BR>
+* YOLOv8 <BR>
+* YOLOv11 <BR>
+* YOLOv11-Seg (Segmentation) <BR>
 
 # 第二章: 開始使用
 安裝完畢並啟動服務後，請開啟瀏覽器並輸入以下網址進入系統：
