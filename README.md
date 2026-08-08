@@ -223,9 +223,11 @@ http://localhost:8080
 ⚠️ 標籤清單僅支援英文。
 
 ## 模型訓練
-在完成[CUDA安裝後](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg)可以參閱[「環境設定套件總覽」](https://github.com/aailixir/chinese_usermanual/blob/main/README.md#%E7%92%B0%E5%A2%83%E8%A8%AD%E5%AE%9A%E5%A5%97%E4%BB%B6%E7%B8%BD%E8%A6%BD)並按下「套件總覽」按鈕，來確定相關套件是否安專完成，如下圖代表套件安裝完成。
+在完成[CUDA安裝後](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg)，可以參閱[「環境設定套件總覽」]。並按下「套件總覽」按鈕，來確定相關套件是否安專完成，如下圖代表套件安裝完成。
 
 ![Cuda OK](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_cuda_ok.jpg)
+
+接下來，請安裝YOLO模型。
 
 
 
