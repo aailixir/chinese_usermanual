@@ -249,11 +249,14 @@ http://localhost:8080
 ![訓練YOLO](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_training.jpg)
 
 # 第六章 模型版本管理
-在訓練完您的第一個YOLO模型後，AI YOLO模型會存在於「模型版本管理」選單內，您可進行
+在訓練完您的第一個YOLO模型後，AI YOLO模型會存在於「模型版本管理」選單內，您可進行:
 
-## 模型報表
+## 模型報表審視
+YOLO在訓練完畢後，相關的報表如辨識標記分布、辨識測試、F1 score、confusion matrix皆可於「模型報表」功能下進行審視。
 
 ![模型報表](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_release1.jpg)
+
+![模型報表2](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_release2.jpg)
 
 
 
