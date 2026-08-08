@@ -261,6 +261,10 @@ YOLO在訓練完畢後，相關的報表如辨識標記分布、辨識測試、F
 ## 模型再次訓練
 若您覺得模型準度不理想，您可以點選「再次訓練」按鈕，進行迭代訓練。
 
+![再次訓練](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_again.jpg)
+
+
+
 
 
 
