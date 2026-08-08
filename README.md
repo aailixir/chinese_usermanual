@@ -89,8 +89,9 @@ GPU需求：RTX20系列、RTX30系列、RTX40系列、RTX50系列 <BR>
 YOLOv5, YOLOv7, YOLOv8, YOLOv11, YOLOv11Seg
 
 # 第二章: 開始使用
-安裝完畢後，請使用瀏覽器並輸入網址如下：
-http://127.0.0.1:8080
+安裝完畢並啟動服務後，請開啟瀏覽器並輸入以下網址進入系統：
+
+http://127.0.0.1:8080 或
 http://localhost:8080 
 
 您可以輸入預設使用者名稱及密碼：
@@ -104,7 +105,9 @@ http://localhost:8080
 <img width="1920" height="963" alt="image" src="https://github.com/user-attachments/assets/8a00ce62-53ad-40f2-a202-8ed6dc68ef31" />
 
 ## 環境設定套件總覽
-當安裝完畢登錄到系統後，請先到「AI模型訓練」並點選「套件總覽」按鈕，可以偵測CUDA或相關套件是否安裝成功，若沒有可以點選「套件診斷」按鈕進行動態安裝。這個可以免除複雜的環境設定。
+登入系統後，請先導覽至左側選單的 「AI 模型訓練」 並點選 「套件總覽」 按鈕。系統會自動偵測 CUDA 及相關必要套件（如 Git、PyTorch、PyYAML）是否安裝成功。
+
+💡 提示：這個功能可免除使用者手動進行複雜環境設定的困擾。若顯示未安裝，可直接點選「套件診斷」進行動態安裝。
 
 ![相關辨識影像展識](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_install.jpg)
 
