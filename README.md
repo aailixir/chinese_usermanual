@@ -242,7 +242,9 @@ http://localhost:8080
 若您是使用Command指令的使用者，您可以點選「訓練指令」按鈕，來複製Command指令。
 
 ## 模型訓練
-欲訓練YOLO AI模型，您可以點選「訓練」按鈕，進行模型訓練。
+欲訓練YOLO AI模型，您可以點選「開始訓練」按鈕，進行模型訓練。
+
+週期Epoch: 是訓練週期，一般而言請先點選25或50 Epoch，進行快速訓練，您可以在未來的時間進行長時間的迭代訓練，提昇[F1 score](https://zh.wikipedia.org/zh-tw/F-score)。
 
 ![訓練YOLO](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_training.jpg)
 
