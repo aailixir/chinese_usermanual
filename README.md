@@ -99,8 +99,14 @@ http://localhost:8080
 
 <img width="1920" height="963" alt="image" src="https://github.com/user-attachments/assets/8a00ce62-53ad-40f2-a202-8ed6dc68ef31" />
 
-## 環境設定
+## 環境設定套件總覽
+當安裝完畢登錄到系統後，請先到「AI模型訓練」並點選「套件總覽」按鈕，可以偵測CUDA或相關套件是否安裝成功，若沒有可以點選「套件診斷」按鈕進行動態安裝。這個可以免除複雜的環境設定。
+
 ![相關辨識影像展識](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_install.jpg)
+
+## 套件總覽
+![套件總覽](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_pytorch.jpg)
+
 # 第三章: AI資料集介紹
 影像AI資料集是照片圖檔的集合，標注資料集(txt文字檔)則是教導AI的一個過程，如下圖所示為事先標記好的資料集。 
 
@@ -120,7 +126,7 @@ http://localhost:8080
 <img width="1920" height="479" alt="image" src="https://github.com/user-attachments/assets/840c638e-cf99-40a1-97f0-544963f23c1a" />
 
 ## 資料集新增
-點選該新增群組可在該群組下點選「資料集新增」按鈕。新增完資料集後可以開始建立資料集。群組為相同的資料集, 共享統樣的物件種類(names檔案)。
+點選該新增群組可在該群組下點選「資料集新增」按鈕。新增完資料集後可以開始建立資料集。群組為相同的資料集，共享統樣的物件種類(names檔案)。
 <BR>
 <BR>
 + 資料集名稱: 可以用來記錄辨識用
