@@ -86,7 +86,13 @@ GPU需求：RTX20系列、RTX30系列、RTX40系列、RTX50系列 <BR>
 記憶體RAM：4GB以上 <BR>
 
 ## Agentic AI 動態載入模型
-YOLOv5, YOLOv7, YOLOv8, YOLOv11, YOLOv11Seg
+系統支援以下模型的動態載入與訓練：
+
+YOLOv5
+YOLOv7
+YOLOv8
+YOLOv11
+YOLOv11-Seg (Segmentation)
 
 # 第二章: 開始使用
 安裝完畢並啟動服務後，請開啟瀏覽器並輸入以下網址進入系統：
