@@ -197,6 +197,8 @@ http://localhost:8080
 
 多邊形標記-這又稱為segmentation，物件語意分析，為YOLO AI標記的進階格式。
 
+⚠️ 點選下圖，YouTube影片播放
+
 [![觀看影片](https://img.youtube.com/vi/Nrf-e5iCbkg/0.jpg)](https://www.youtube.com/watch?v=Nrf-e5iCbkg)
 
 - 整個物件拖曳-直接拖曳「標記標題」
