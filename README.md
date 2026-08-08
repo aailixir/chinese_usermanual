@@ -105,12 +105,12 @@ http://localhost:8080
 ![相關辨識影像展識](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_install.jpg)
 
 ## 套件總覽
-若一切安裝順利，相關必要元件如Git、PyTorch、PyYAML會顯示在套件總覽並顯示安裝狀態。
+若一切安裝順利，點選「套件總覽」按鈕，會顯示相關必要元件如Git、PyTorch、PyYAML會顯示在套件總覽並顯示安裝狀態。
 
 ![套件總覽](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_pytorch.jpg)
 
 ## 套件診斷
-若安裝不成功，可以進行安裝。
+若安裝不成功，可以點選「套件診斷」按鈕，進行安裝。
 
 ![套件診斷](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_step1.jpg)
 
