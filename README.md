@@ -46,9 +46,9 @@ sudo ubuntu-drivers autoinstall
 sudo reboot
 ```
 
-2.下載與安裝 CUDA Toolkit：前往 NVIDIA 官方下載頁面，選擇 Linux -> x86_64 -> Ubuntu -> 你的版本 (如 22.04 或 24.04) -> deb (local)。網頁下方會自動生成對應的終端機指令（通常包含下載 .pin 檔、下載 .deb 檔、加入金鑰並透過 apt 安裝 cuda-toolkit）。請依序複製並在終端機中執行這些指令。
+2. 下載與安裝 CUDA Toolkit：前往 NVIDIA 官方下載頁面，選擇 Linux -> x86_64 -> Ubuntu -> 你的版本 (如 22.04 或 24.04) -> deb (local)。網頁下方會自動生成對應的終端機指令（通常包含下載 .pin 檔、下載 .deb 檔、加入金鑰並透過 apt 安裝 cuda-toolkit）。請依序複製並在終端機中執行這些指令。
 
-3.設定環境變數：非常重要。安裝完成後，系統還不知道 CUDA 的路徑。你需要手動將它加入環境變數中。使用文字編輯器打開 ~/.bashrc 檔案，在最底端加入以下兩行（請將 cuda-12.x 替換為你安裝的實際版本號）：
+3. 設定環境變數：非常重要。安裝完成後，系統還不知道 CUDA 的路徑。你需要手動將它加入環境變數中。使用文字編輯器打開 ~/.bashrc 檔案，在最底端加入以下兩行（請將 cuda-12.x 替換為你安裝的實際版本號）：
 
 ```
 export PATH=/usr/local/cuda-12.x/bin${PATH:+:${PATH}}
