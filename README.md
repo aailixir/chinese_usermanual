@@ -72,9 +72,9 @@ PHP 為 The PHP Group 所開發並維護的開源程式語言。
 本專案僅在合法授權範圍內使用上述軟體，並不代表與 Apache Software Foundation 或 The PHP Group 有任何附屬或合作關係。
 
 ## 訓練主機需求
-作業系統：Windows 10、Windows 11
-GPU需求：RTX20系列、RTX30系列、RTX40系列、RTX50系列
-記憶體RAM：4GB以上
+作業系統：Windows 10、Windows 11 <BR>
+GPU需求：RTX20系列、RTX30系列、RTX40系列、RTX50系列 <BR>
+記憶體RAM：4GB以上 <BR>
 
 ## Agentic AI 動態載入模型
 YOLOv5, YOLOv7, YOLOv8, YOLOv11, YOLOv11Seg
