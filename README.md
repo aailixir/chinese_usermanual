@@ -234,6 +234,10 @@ http://localhost:8080
 
 ⚠️ 請確保您的標記主機連線到Internet，才可下載模型引擎。
 
+按照步驟將YOLO相關引擎安裝完成，供未來訓練模型時使用。
+
+![安裝YOLO](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_setup.jpg)
+
 
 
 
