@@ -263,6 +263,12 @@ YOLO在訓練完畢後，相關的報表如辨識標記分布、辨識測試、F
 
 ![再次訓練](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_again.jpg)
 
+## 照片預標記
+您可以再次上傳照片資料集進行預標記，此一功能可以新增更多樣的照片進行AI模型的驗證，YOLO AI要準確要有種不同角度的標記，讓AI模型學習多樣性，一般而言一個辨識物種300會辨識，3000~3萬張會準確。提供辨識不準並修正其標記的多樣性資料集，可以增加模型準度。
+
+![Upload](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_upload.jpg)
+
+
 
 
 
