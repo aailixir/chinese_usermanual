@@ -1,0 +1,35 @@
+﻿Contratto di Licenza con l'Utente Finale (EULA)
+Il presente Contratto di Licenza con l'Utente Finale ("Contratto") è un accordo legale tra l'utente (persona fisica o singola persona giuridica) e Ailixir, applicabile al prodotto software che accompagna questo Contratto, incluso il software per computer e che può includere i relativi supporti, materiali stampati e documentazione "online" o elettronica (di seguito denominati collettivamente il "Software").
+
+Installando, copiando o utilizzando in altro modo il Software, l'utente accetta di essere vincolato dai termini del presente Contratto. Se non si accettano i termini di questo Contratto, non installare o utilizzare il Software.
+
+1. Concessione della Licenza
+Ailixir concede all'utente una licenza non esclusiva e non trasferibile per installare e utilizzare una copia del Software su un singolo computer per uso personale o aziendale interno.
+
+2. Restrizioni
+L'utente non può:
+
+Modificare, decodificare, decompilare o disassemblare il Software.
+
+Affittare, concedere in locazione, prestare o distribuire il Software a terzi.
+
+Utilizzare il Software per scopi illegali o non autorizzati.
+
+3. Proprietà
+Il Software è concesso in licenza, non venduto. La proprietà, tutti i diritti e i diritti di proprietà intellettuale relativi al Software appartengono ad Ailixir.
+
+4. Risoluzione
+Il presente Contratto rimarrà in vigore dalla data di efficacia fino alla sua risoluzione. L'utente può risolvere questo Contratto in qualsiasi momento distruggendo tutte le copie del Software. Il presente Contratto si risolverà automaticamente se l'utente non rispetta uno qualsiasi dei termini del presente Contratto.
+
+5. Esclusione di Garanzie
+Il Software è fornito "COSÌ COM'È" (AS IS), senza garanzie di alcun tipo. Ailixir declina espressamente tutte le garanzie, esplicite o implicite, incluse, a titolo esemplificativo ma non esaustivo, la commerciabilità o l'idoneità per uno scopo particolare.
+
+6. Limitazione di Responsabilità
+In nessun caso Ailixir sarà ritenuta responsabile per eventuali danni (inclusi, a titolo esemplificativo, perdita di profitti, interruzione dell'attività o perdita di informazioni) derivanti dall'uso o dall'impossibilità di utilizzare il Software.
+
+7. Legge Applicabile
+Il presente Contratto sarà disciplinato e interpretato in conformità con le leggi di Taiwan.
+
+Cliccando su "Installa" o utilizzando il Software, l'utente conferma di aver letto, compreso e accettato di essere vincolato dai termini del presente Contratto.
+
+© 2026 Ailixir. Tutti i diritti riservati.
