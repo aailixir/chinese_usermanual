@@ -1,5 +1,11 @@
 [
   {
+    "Name": "Ailixir_Windows_1.0.28",
+    "Description": "Windows 版本 Ailixir Version 1.0.28, 2026/08/11",
+    "URL_Google_Drive": "https://drive.google.com/file/d/1MEy_tiCc1qB9vOQfICmPD6taGKGB7QxS/view",
+    "URL_GCS_Bucket":""
+  },
+  {
     "Name": "Ailixir_Windows_1.0.24",
     "Description": "Windows 版本 Ailixir Version 1.0.24, 2026/08/06",
     "URL_Google_Drive": "https://drive.usercontent.google.com/download?id=1qIUrWQD-towKhYINdZcSt04e714NuXxE&export=download&authuser=0",
