@@ -251,6 +251,9 @@ http://localhost:8080
 
 ![訓練YOLO](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_training.jpg)
 
+## 群組合併訓練
+![combined](https://github.com/aailixir/chinese_usermanual/blob/main/images/deme_combined.jpg)
+
 # 第六章 模型版本管理
 在訓練完您的第一個YOLO模型後，AI YOLO模型會存在於「模型版本管理」選單內，您可進行:
 
