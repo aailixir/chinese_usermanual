@@ -252,6 +252,21 @@ http://localhost:8080
 ![訓練YOLO](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_training.jpg)
 
 ## 群組合併訓練
+設定群組最主要的目的是，是讓相同的訓練YAML檔案與類別Names檔案，在不同批次標記下，可以在未來進行合併訓練，這樣在批次審核標記可以加速網頁載入的速度。試想若不分批標記資料集，同一個資料集有數萬張照片，每次載入資料集將花很久時間。
+
+群組「訓練指令集」：會將數個資料集目錄合併訓練。
+群組「合併訓練」：開啟視窗，可以選擇預設的基礎資料集，訓練時會使用該資料集的YAML及類別檔案。
+群組「開始訓練」：會開始合併訓練數個資料集目錄。
+
+點選群組「合併訓練」，在對話窗內選擇一個預設資料集，訓練時會使用該資料集的YAML及類別檔案。
+
+儲存：儲存該預設資料集
+讀取合併的YAML：可以審視該YAML檔案
+取消：放棄該設定
+關閉：關閉視窗
+
+⚠️ 注意：不同標記類別Names名稱或YAML將視為不同辨識資料集，請勿混用，將大幅降低辨識率或不辨識。
+
 ![combined](https://github.com/aailixir/chinese_usermanual/blob/main/images/deme_combined.jpg)
 
 # 第六章 模型版本管理
