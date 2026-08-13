@@ -35,6 +35,39 @@
 * Architecture: x86_64
 * Version: 10 或 11
 * Installer Type: exe (local)
+# NVIDIA GPU PyTorch 安裝使用手冊
+
+為了確保模型訓練與推論的穩定性，並發揮顯示卡最佳的 AI 加速效能，請務必根據您設備配置的 NVIDIA 顯示卡系列，選擇並執行對應的 PyTorch 安裝指令。
+
+## 💻 顯示卡系列與對應安裝指令
+
+請在下表中尋找您的顯示卡型號，並複製對應的 `pip` 安裝指令至命令提示字元 (cmd) 或終端機中執行。
+
+| 顯示卡關鍵字 | 適用系列架構 | PyTorch 安裝指令 (請直接複製執行) |
+| :--- | :--- | :--- |
+| **GTX 10** | NVIDIA GTX 10 系列 (Pascal) | `pip install torch==1.13.1+cu11x torchvision torchaudio --index-url https://download.pytorch.org/whl/cu11x` |
+| **RTX 20** | NVIDIA RTX 20 系列 (Turing) | `pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118` |
+| **RTX 30** | NVIDIA RTX 30 系列 (Ampere) | `pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118` |
+| **RTX 40** | NVIDIA RTX 40 系列 (Ada Lovelace) | `pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118` |
+| **Quadro / Tesla / A100 / H100** | NVIDIA Quadro / Tesla / A100 / H100<br>*(資料中心 GPU)* | `pip install torch==2.9.1+cu121 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121` |
+| **GB** | NVIDIA GB 系列 (Grace Blackwell) | `pip install torch==2.10.0+cu125 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu125` |
+
+---
+
+## 🛠️ 安裝步驟說明
+
+1. **開啟終端機環境**
+   * Windows 用戶請開啟「命令提示字元 (cmd)」或 PowerShell。
+   * 若您有使用虛擬環境（如 Anaconda、venv 等），請務必**先啟動您的虛擬環境**。
+2. **執行安裝指令**
+   * 從上方表格複製符合您設備的指令。
+   * 貼上至終端機並按下 `Enter` 鍵執行。
+3. **等待安裝完成**
+   * 系統將自動下載並安裝相容的 CUDA 版本與 PyTorch 套件。請保持網路暢通，直到顯示 `Successfully installed...` 即代表安裝完畢。
+
+> **⚠️ 注意事項**
+> * 執行安裝前，建議確保您的 NVIDIA 顯示卡驅動程式已更新至最新版本，以避免與新版 CUDA 發生衝突。
+> * 不同架構需搭配特定的 CUDA 版本 (`cu11x`, `cu118`, `cu121`, `cu125`)，請勿跨區間混用指令，否則將導致 GPU 無法正常啟用或效能低落。
 
 點擊下載安裝檔（檔案通常有幾 GB 大小）。
 
