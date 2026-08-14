@@ -328,9 +328,10 @@ http://localhost:8080
 
 # 第七章 系統設定
 ## 帳號設定
+![account](images/demo_account.jpg)
 
 ## 系統軟體設定
-
+![application](images/demo_application.jpg)
 # 版權聲明
 本網站/程式由 Apache HTTP Server 提供服務，並使用 PHP 程式語言開發。 <BR>
 © 2026 胡斯科技有限公司。保留所有權利。 <BR>
