@@ -326,7 +326,10 @@ http://localhost:8080
 
 ![Upload](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_upload.jpg)
 
-# 第七章 系統設定
+# 第七章 No code 報表輸出
+![application_dia](images/demo_application.jpg)
+
+# 第八章 系統設定
 ## 帳號設定
 本系統支援多人登錄進行標記、訓練、辨識等功能，在帳戶設定選單可以進行帳號新增、修改及刪除。
 
