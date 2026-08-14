@@ -328,19 +328,28 @@ http://localhost:8080
 
 # 第七章 系統設定
 ## 帳號設定
+本系統支援多人登錄進行標記、訓練、辨識等功能，在帳戶設定選單可以進行帳號新增、修改及刪除。
+
 ![account](images/demo_account.jpg)
 
-## 系統軟體設定
+## 系統軟體設定(未來支援)
+
+* Ollama通信埠：大型語言模型LLM通信埠
+* 串流接收 port：影像接收串流埠
+* 串流WS輸出 port：影像串流Web Socket串流埠
+
 ![application](images/demo_application.jpg)
 # 版權聲明
 本網站/程式由 Apache HTTP Server 提供服務，並使用 PHP 程式語言開發。 <BR>
-© 2026 胡斯科技有限公司。保留所有權利。 <BR>
+
 本程式碼及相關文件僅供學習與研究用途，未經授權不得複製、散佈或用於商業用途。若需引用或修改，請保留原始作者資訊及本版權聲明。 <BR>
 Apache HTTP Server 為 Apache Software Foundation 的開源專案。 <BR>
 PHP 為 The PHP Group 所開發並維護的開源程式語言。 <BR>
 兩者均依各自的授權條款 (Apache License 2.0 與 PHP License) 使用。 <BR>
  
 本專案僅在合法授權範圍內使用上述軟體，並不代表與 Apache Software Foundation 或 The PHP Group 有任何附屬或合作關係。 <BR>
+
+© 2026 胡斯科技有限公司。保留所有權利。 <BR>
 
 
 
