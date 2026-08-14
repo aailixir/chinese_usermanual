@@ -76,7 +76,7 @@ export LD_LIBRARY_PATH=/usr/local/cuda-12.x/lib64${LD_LIBRARY_PATH:+:${LD_LIBRAR
 
 | 顯示卡關鍵字 | 適用系列架構 | PyTorch 安裝指令 (請直接複製執行) |
 | :--- | :--- | :--- |
-| **GTX 10** | NVIDIA GTX 10 系列 (Pascal) | `pip install torch==1.13.1+cu11x torchvision torchaudio --index-url https://download.pytorch.org/whl/cu11x` |
+| **GTX 10** | NVIDIA GTX 10 系列 (Pascal) | `pip install torch==1.13.1+cu117 torchvision==0.14.1+cu117 torchaudio==0.13.1 --extra-index-url https://download.pytorch.org/whl/cu117` |
 | **RTX 20** | NVIDIA RTX 20 系列 (Turing) | `pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118` |
 | **RTX 30** | NVIDIA RTX 30 系列 (Ampere) | `pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118` |
 | **RTX 40** | NVIDIA RTX 40 系列 (Ada Lovelace) | `pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118` |
