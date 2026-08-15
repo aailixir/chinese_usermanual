@@ -341,7 +341,7 @@ http://localhost:8080
 * 串流接收 port：影像接收串流埠
 * 串流WS輸出 port：影像串流Web Socket串流埠
 
-![application](images/demo_application.jpg)
+![application](images/demo_llm.jpg)
 # 版權聲明
 本網站/程式由 Apache HTTP Server 提供服務，並使用 PHP 程式語言開發。 <BR>
 
