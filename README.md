@@ -284,6 +284,11 @@ http://localhost:8080
 
 ![訓練YOLO](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_training.jpg)
 
+## 模型訓練報表
+模型訓練完成或未完成，使用者可以點選 ... 開啟訓練結果報表，可供技術支援使用。
+
+![訓練log](images/demo_training_log.jpg)
+
 ## 群組合併訓練
 設定群組最主要的目的，是讓相同的訓練 YAML 檔案與類別 Names 檔案，在不同批次標記下，可以在未來進行合併訓練，這樣在分批審核標記時，能有效加速網頁載入的速度。試想若不分批標記資料集，同一個資料集有數萬張照片，每次載入都將耗費極長的時間。
 
