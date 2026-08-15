@@ -74,14 +74,14 @@ export LD_LIBRARY_PATH=/usr/local/cuda-12.x/lib64${LD_LIBRARY_PATH:+:${LD_LIBRAR
 
 請在下表中尋找您的顯示卡型號，並複製對應的 `pip` 安裝指令至命令提示字元 (cmd) 或終端機中執行。
 
-| 顯示卡關鍵字 | 顯示卡系列 | 安裝指令 (`pip`) |
-| :--- | :--- | :--- |
-| **GTX 10** | NVIDIA GTX 10 系列 (Pascal) | <pre>pip install torch==1.13.1+cu11x torchvision torchaudio --index-url https://download.pytorch.org/whl/cu11x</pre> |
-| **RTX 20** | NVIDIA RTX 20 系列 (Turing) | <pre>pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118</pre> |
-| **RTX 30** | NVIDIA RTX 30 系列 (Ampere) | <pre>pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118</pre> |
-| **RTX 40** | NVIDIA RTX 40 系列 (Ada Lovelace) | <pre>pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118</pre> |
-| **Quadro, Tesla, A100, H100** | NVIDIA Quadro / Tesla / A100 / H100 (資料中心 GPU) | <pre>pip install torch==2.9.1+cu121 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121</pre> |
-| **GB** | NVIDIA GB 系列 (Grace Blackwell) | <pre>pip install torch==2.10.0+cu125 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu125</pre> |
+| 顯示卡關鍵字 | 顯示卡系列 |
+| :--- | :--- |
+| **GTX 10** | **NVIDIA GTX 10 系列 (Pascal)**<br>`pip install torch==1.13.1+cu11x torchvision torchaudio --index-url https://download.pytorch.org/whl/cu11x` |
+| **RTX 20** | **NVIDIA RTX 20 系列 (Turing)**<br>`pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118` |
+| **RTX 30** | **NVIDIA RTX 30 系列 (Ampere)**<br>`pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118` |
+| **RTX 40** | **NVIDIA RTX 40 系列 (Ada Lovelace)**<br>`pip install torch==2.7.1+cu118 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu118` |
+| **Quadro, Tesla, A100, H100** | **NVIDIA Quadro / Tesla / A100 / H100 (資料中心 GPU)**<br>`pip install torch==2.9.1+cu121 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu121` |
+| **GB** | **NVIDIA GB 系列 (Grace Blackwell)**<br>`pip install torch==2.10.0+cu125 torchvision torchaudio --index-url https://download.pytorch.org/whl/cu125` |
 
 ---
 
