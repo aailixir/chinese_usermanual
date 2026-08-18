@@ -331,7 +331,7 @@ http://localhost:8080
 
 ![Upload](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_upload.jpg)
 
-# 第七章 No code 報表輸出
+# 第七章 No code 報表輸出(未來支援)
 ![application_dia](images/demo_application.jpg)
 
 # 第八章 系統設定
@@ -347,8 +347,9 @@ http://localhost:8080
 * 串流WS輸出 port：影像串流Web Socket串流埠
 
 ![application](images/demo_llm.jpg)
+
 # 版權聲明
-本網站/程式由 Apache HTTP Server 提供服務，並使用 PHP 程式語言開發。 <BR>
+本程式Ailixir靈丹軟體，是基於 Apache HTTP Server 提供服務，並使用 PHP 及Python程式語言開發。 <BR>
 
 本程式碼及相關文件僅供學習與研究用途，未經授權不得複製、散佈或用於商業用途。若需引用或修改，請保留原始作者資訊及本版權聲明。 <BR>
 Apache HTTP Server 為 Apache Software Foundation 的開源專案。 <BR>
