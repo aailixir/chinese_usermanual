@@ -349,16 +349,37 @@ http://localhost:8080
 ![application](images/demo_llm.jpg)
 
 # 版權聲明
-本程式Ailixir靈丹軟體，是基於 Apache HTTP Server 提供服務，並使用 PHP 及Python程式語言開發。 <BR>
+# Ailixir 授權條款與商業服務說明
 
-本程式碼及相關文件僅供學習與研究用途，未經授權不得複製、散佈或用於商業用途。若需引用或修改，請保留原始作者資訊及本版權聲明。 <BR>
-Apache HTTP Server 為 Apache Software Foundation 的開源專案。 <BR>
-PHP 為 The PHP Group 所開發並維護的開源程式語言。 <BR>
-兩者均依各自的授權條款 (Apache License 2.0 與 PHP License) 使用。 <BR>
- 
-本專案僅在合法授權範圍內使用上述軟體，並不代表與 Apache Software Foundation 或 The PHP Group 有任何附屬或合作關係。 <BR>
+版權所有 (c) 2026 胡斯科技有限公司 (Hus Technology Co., Ltd.) 保留所有權利。
 
-© 2026 胡斯科技有限公司。保留所有權利。 <BR>
+---
+
+## 1. 開源授權條款 (AGPL-3.0)
+
+Ailixir 核心系統採用 **GNU Affero General Public License v3.0 (AGPL-3.0)** 授權開源。
+
+依據此授權，您可以自由研究、修改並將 Ailixir 用於個人、教育或內部研究用途。然而，若您修改 Ailixir 或將其整合至透過網路提供服務的 Web 應用程式、SaaS 或 API 服務中，**您必須依據 AGPL-3.0 條款公開您的完整原始碼**。
+
+完整授權條款請參閱：[AGPL-3.0 官方條款全文](https://www.gnu.org/licenses/agpl-3.0.html)。
+
+---
+
+## 2. 商業授權與專家顧問服務 (Commercial License & Consulting)
+
+若貴機構/企業希望在免除 AGPL-3.0 開源義務的前提下將 Ailixir 整合至專有系統中，或是需要專業的地端部署與客製化 AI 模型串接，我們提供**商業授權與一站式包套顧問服務**。
+
+### 商業合作優勢：
+* **免除 AGPL 限制：** 允許將 Ailixir 嵌入專有、閉源的企業內部系統中。
+* **私有化地端部署：** 針對邊緣設備 (Edge Devices)、本地 GPU 伺服器與完全斷網環境提供代客安裝與優化。
+* **客製化 AI 流程：** 提供專屬 YOLO / VLM 模型微調、Ollama 地端大語言模型與自動化 Word/Excel 報表管線整合。
+* **優先技術支援與 SLA：** 專屬系統維護、優先功能開發與系統版本升級護航。
+
+💼 **聯繫我們取得商業授權與顧問諮詢：**
+* **公司名稱：** 胡斯科技有限公司 (Ailixir Technology Co., Ltd.)
+* **官方 Email：** ailixir@gmail.com
+* **官方網站：** https://anno.ailixir.com.tw/
+* **預約諮詢：** ailixir@gmail.com
 
 
 
