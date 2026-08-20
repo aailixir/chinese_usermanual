@@ -363,7 +363,7 @@ Ollama通信埠與Ollama模型設定後，便可使用「AI智慧助理」與Oll
 # 版權聲明
 # Ailixir 授權條款與商業服務說明
 
-版權所有 (c) 2026 胡斯科技有限公司 (Hus Technology Co., Ltd.) 保留所有權利。
+版權所有 (c) 2026 胡斯科技有限公司 (Ailixir Technology Co., Ltd.) 保留所有權利。
 
 ## 1. 開源授權條款 (AGPL-3.0)
 
