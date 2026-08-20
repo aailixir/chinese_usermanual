@@ -21,6 +21,7 @@
 <img width="648" height="448" alt="image" src="https://github.com/user-attachments/assets/55c3708e-7c4b-460a-89bc-019e4777143f" />
 
 ## CUDA安裝
+
 ### Windows 系統安裝步驟
 在 Windows 上安裝 CUDA 相對直觀，主要透過圖形化安裝精靈來完成。
 
@@ -69,6 +70,8 @@ export LD_LIBRARY_PATH=/usr/local/cuda-12.x/lib64${LD_LIBRARY_PATH:+:${LD_LIBRAR
 # NVIDIA GPU PyTorch 安裝使用手冊
 
 為了確保模型訓練與推論的穩定性，並發揮顯示卡最佳的 AI 加速效能，請務必根據您設備配置的 NVIDIA 顯示卡系列，選擇並執行對應的 PyTorch 安裝指令。
+
+![demo_first](/images/demo_first.jpg)
 
 ## 💻 顯示卡系列與對應安裝指令
 
