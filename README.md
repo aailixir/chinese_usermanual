@@ -384,7 +384,7 @@ Ailixir 核心系統採用 **GNU Affero General Public License v3.0 (AGPL-3.0)**
 * **公司名稱：** 胡斯科技有限公司 (Ailixir Technology Co., Ltd.)
 * **官方 Email：** ailixir@gmail.com
 * **官方網站：** https://anno.ailixir.com.tw/
-* **軟體下載：** [https://anno.ailixir.com.tw/](https://anno.ailixir.com.tw/)
+* **軟體下載：** [https://anno.ailixir.com.tw/](https://anno.ailixir.com.tw/downloads)
 
 
 
