@@ -352,7 +352,7 @@ http://localhost:8080
 
 # 第九章 大型語言模型LLM
 與大型語言模型串接使用，請先安裝大型語言模型[Ollama](https://ollama.com)。
-Ollama通信埠與Ollama模型設定後，便可使用「AI智慧助理」。
+Ollama通信埠與Ollama模型設定後，便可使用「AI智慧助理」與Ollama所設定的大型語言模型使用。
 
 ![chat](images/demo_llm_chat.jpg)
 
@@ -360,8 +360,6 @@ Ollama通信埠與Ollama模型設定後，便可使用「AI智慧助理」。
 # Ailixir 授權條款與商業服務說明
 
 版權所有 (c) 2026 胡斯科技有限公司 (Hus Technology Co., Ltd.) 保留所有權利。
-
----
 
 ## 1. 開源授權條款 (AGPL-3.0)
 
@@ -371,7 +369,6 @@ Ailixir 核心系統採用 **GNU Affero General Public License v3.0 (AGPL-3.0)**
 
 完整授權條款請參閱：[AGPL-3.0 官方條款全文](https://www.gnu.org/licenses/agpl-3.0.html)。
 
----
 
 ## 2. 商業授權與專家顧問服務 (Commercial License & Consulting)
 
