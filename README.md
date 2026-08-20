@@ -331,7 +331,7 @@ http://localhost:8080
 
 ![Upload](https://github.com/aailixir/chinese_usermanual/blob/main/images/demo_yolo_upload.jpg)
 
-# 第七章 No code 報表輸出(未來支援)
+# 第七章 No code/low code 報表輸出(未來支援)
 ![application_dia](images/demo_application.jpg)
 
 # 第八章 系統設定
@@ -341,12 +341,20 @@ http://localhost:8080
 ![account](images/demo_account.jpg)
 
 ## 系統軟體設定(未來支援)
+無論是No code/low code Python系統整合或是與大型語言模型LLM整合應用，系統軟體設定可設定與Ollama與串流通信。
 
 * Ollama通信埠：大型語言模型LLM通信埠
+* Ollama模型：可動態載入Ollama模型
 * 串流接收 port：影像接收串流埠
 * 串流WS輸出 port：影像串流Web Socket串流埠
 
 ![application](images/demo_llm.jpg)
+
+# 第九章 大型語言模型LLM
+與大型語言模型串接使用，請先安裝大型語言模型![Ollama](https://ollama.com)。
+Ollama通信埠與Ollama模型設定後，便可使用「AI智慧助理」。
+
+![chat](images/demo_llm_chat.jpg)
 
 # 版權聲明
 # Ailixir 授權條款與商業服務說明
@@ -379,7 +387,7 @@ Ailixir 核心系統採用 **GNU Affero General Public License v3.0 (AGPL-3.0)**
 * **公司名稱：** 胡斯科技有限公司 (Ailixir Technology Co., Ltd.)
 * **官方 Email：** ailixir@gmail.com
 * **官方網站：** https://anno.ailixir.com.tw/
-* **預約諮詢：** ailixir@gmail.com
+* **軟體下載：** [ailixir@gmail.com](https://anno.ailixir.com.tw/)
 
 
 
