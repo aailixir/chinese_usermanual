@@ -351,7 +351,7 @@ http://localhost:8080
 ![application](images/demo_llm.jpg)
 
 # 第九章 大型語言模型LLM
-與大型語言模型串接使用，請先安裝大型語言模型![Ollama](https://ollama.com)。
+與大型語言模型串接使用，請先安裝大型語言模型[Ollama](https://ollama.com)。
 Ollama通信埠與Ollama模型設定後，便可使用「AI智慧助理」。
 
 ![chat](images/demo_llm_chat.jpg)
