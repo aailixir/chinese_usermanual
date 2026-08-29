@@ -3,7 +3,7 @@
 
 又由於影像標記服務需要管理大量照片與標記資料集，一般而言、一個AI辨識物種需要日夜間各個角度照片3000張及標記，本軟體提供半自動標記服務增加標記效率，亦能夠批次上傳已經標記好的資料集。此外本系統已經系統化支援YOLOv5、YOLOv7、YOLOv8、YOLOv11、YOLOv11 Segmentation 的指令集，無須具程式設計背景便可進行繁瑣的AI模型訓練，完成AI模型的辨識與推論，進而管理每一個經長時間訓練的模型。
 
-## 軟體下載
+# 軟體下載
 * **請點選** [https://anno.ailixir.com.tw/](https://anno.ailixir.com.tw/downloads){:target="_blank"}
 
 ## 📽️ 影像展示
