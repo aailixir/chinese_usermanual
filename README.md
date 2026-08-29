@@ -73,7 +73,10 @@ export LD_LIBRARY_PATH=/usr/local/cuda-12.x/lib64${LD_LIBRARY_PATH:+:${LD_LIBRAR
 # NVIDIA GPU PyTorch 安裝使用手冊
 
 為了確保模型訓練與推論的穩定性，並發揮顯示卡最佳的 AI 加速效能，請務必根據您設備配置的 NVIDIA 顯示卡系列，選擇並執行對應的 PyTorch 安裝指令。
-除了手動更新外，Ailixir 在登錄後的首頁，使用「套件安裝」按鈕可以安裝PyTorch等環境，另可以使用「套件總覽」按鈕來檢視已經安裝的套件。
+除了手動更新外，Ailixir 靈丹軟體在登錄後的首頁後：
+
+* 使用「套件安裝」按鈕可以安裝PyTorch等環境
+* 另可以使用「套件總覽」按鈕來檢視已經安裝的套件。
 
 ![demo_first](/images/demo_first.jpg)
 
