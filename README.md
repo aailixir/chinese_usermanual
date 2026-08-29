@@ -164,7 +164,7 @@ http://localhost:8080
 
 ## AI資料集設定畫面
 
-<img width="1906" height="954" alt="image" src="https://github.com/user-attachments/assets/f056a99b-c7d4-47fe-889f-a70e509bcf72" />
+<img width="1906" height="954" alt="image" src="images/demo_aimodels.jpg" />
 
 ## AI資料集設定
 請先點選左邊的導覽選單「AI資料集設定」進行「群組」及「資料集」設定，點選「新增群組」進行群組管理。
